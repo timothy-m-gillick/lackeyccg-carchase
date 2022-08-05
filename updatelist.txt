@@ -1,0 +1,5 @@
+carchase	08-03-22
+plugins/carchase/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-carchase/raw/main/plugininfo.txt	116441
+plugins/carchase/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-carchase/raw/main/cardback.jpg	636053
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1W_ue52-NTunndSEToSbejxHWF5mHeHas
